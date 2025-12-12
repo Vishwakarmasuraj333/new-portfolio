@@ -8,7 +8,7 @@ This portfolio is designed to represent **Suraj – Frontend Developer**, with c
 ---
 
 ## 🚀 Live Demo  
-👉 *Add your live link here when deployed*
+👉 https://vishwakarmasuraj333.github.io/new-portfolio/
 
 ---
 
